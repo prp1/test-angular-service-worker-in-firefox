@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1578043206697,
+  "index": "https://prp1.github.io/test-angular-service-worker-in-firefox/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/favicon.ico",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/index.html",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/main-es2015.20a1393a047f05824dae.js",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/main-es5.20a1393a047f05824dae.js",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/manifest.webmanifest",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/polyfills-es2015.2987770fde9daa1d8a2e.js",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/polyfills-es5.6696c533341b95a3d617.js",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/runtime-es2015.edb2fcf2778e7bf1d426.js",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/runtime-es5.edb2fcf2778e7bf1d426.js",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-128x128.png",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-144x144.png",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-152x152.png",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-192x192.png",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-384x384.png",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-512x512.png",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-72x72.png",
+        "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/index.html": "5077bfeafd227fac9466af027299093968c382f3",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/main-es2015.20a1393a047f05824dae.js": "908d947f67fac8b6d91383663402863a2b96bcc8",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/main-es5.20a1393a047f05824dae.js": "ffbaf712062e27ac620bce8419bde54ee3b53b22",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/manifest.webmanifest": "3c94e714ac5c5f7a4e623e100d712dc44d44f328",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/polyfills-es5.6696c533341b95a3d617.js": "6bff0c03e05bb347d213ad1b3674045eb892d189",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://prp1.github.io/test-angular-service-worker-in-firefox/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
