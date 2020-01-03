@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1578044752058,
+  "timestamp": 1578045364506,
   "index": "/test-angular-service-worker-in-firefox/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "/test-angular-service-worker-in-firefox/index.html": "3e5484a3dc091155b59fe17f12e6b333b2eea2fd",
     "/test-angular-service-worker-in-firefox/main-es2015.20a1393a047f05824dae.js": "908d947f67fac8b6d91383663402863a2b96bcc8",
     "/test-angular-service-worker-in-firefox/main-es5.20a1393a047f05824dae.js": "ffbaf712062e27ac620bce8419bde54ee3b53b22",
-    "/test-angular-service-worker-in-firefox/manifest.webmanifest": "3c94e714ac5c5f7a4e623e100d712dc44d44f328",
+    "/test-angular-service-worker-in-firefox/manifest.webmanifest": "86e61095f2c06a4065547b9fce189ae13a41458e",
     "/test-angular-service-worker-in-firefox/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
     "/test-angular-service-worker-in-firefox/polyfills-es5.6696c533341b95a3d617.js": "6bff0c03e05bb347d213ad1b3674045eb892d189",
     "/test-angular-service-worker-in-firefox/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
